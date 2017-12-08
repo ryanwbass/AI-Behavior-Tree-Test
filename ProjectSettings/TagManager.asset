@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Collision
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Floor
     uniqueID: 734479139
+    locked: 0
+  - name: Details
+    uniqueID: 2571769547
     locked: 0
   - name: Collisions
     uniqueID: 476802525
